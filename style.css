@@ -405,3 +405,10 @@ section{
     display: none;
   }
 } 
+
+@media (max-width: 380px){
+  .home-content img{
+    position: absolute;
+    left: 60px;
+  }
+}
