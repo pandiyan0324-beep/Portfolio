@@ -409,6 +409,14 @@ section{
 @media (max-width: 380px){
   .home-content img{
     position: absolute;
-    left: 60px;
+    left: 90px;
   }
+}
+
+@media (max-width:320px){
+  .home-content img{
+    position: absolute;
+    left: 63px;
+  }
+  
 }
